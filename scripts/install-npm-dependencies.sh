@@ -2,6 +2,7 @@
 
 set -e
 
+echo "Hello"
 SHRINKWRAP_FILE=npm-shrinkwrap.json
 SHRINKWRAP_CACHED_FILE=node_modules/npm-shrinkwrap.cached.json
 
